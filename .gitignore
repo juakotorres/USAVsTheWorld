@@ -72,3 +72,4 @@ Thumbs.db
 ## Intellij Idea
 local.properties
 .idea
+gradle.properties
