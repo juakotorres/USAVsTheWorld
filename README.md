@@ -28,4 +28,11 @@ org.gradle.java.home=/usr/lib/jvm/java-8-openjdk
 
 You must change **org.gradle.java.home** with your own one, where Java is installed in your machine.
 
+### Eclipse
+
+* Import this project as a **Gradle Project**
+* Set the *project root directory*
+* Set *Gradle wrapper* as the Gradle distribution
+* Wait for the project to build
+* Click the finish button
 
